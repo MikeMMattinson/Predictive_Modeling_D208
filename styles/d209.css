@@ -1,0 +1,93 @@
+<style>
+
+body {
+    font-family: 'Times New Roman', serif;
+}
+
+h1 {
+    margin: 0 0 0 0;
+    font-family: 'Times New Roman', serif;
+    font-size: 40px;
+    padding: 5px;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: #0000ff;
+}
+
+h2 {
+    margin: 0 0 0 0;
+    font-family: 'Times New Roman', serif;
+    font-size: 40px;
+    padding: 5px;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: #0000ff;
+    background: inherit;
+}
+
+h2:before {
+    content: attr(data-nbr)". ";
+}
+
+
+h3 {
+    background: #E6EFFA;
+    font-family: 'Impact';
+    font-size: 100%;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 5px 0;
+}
+
+
+.quote {
+    padding: 10px;
+    border: 1px groove gray;
+    background-color: rgb(219, 214, 214);
+}
+
+
+p {
+    font-family: 'Times New Roman', serif;
+    font-size: 14px;
+    line-height: 1.1;
+    color: #000000;
+}
+
+
+.apa {
+    padding-left: 4em;
+    text-indent: -4em;
+    background: powderblue;
+    font-size: 140%;
+    line-height: 2.0;
+}
+
+
+.output {
+    padding-left: 4em;
+    text-indent: -4em;
+    background: #E6EFFA;
+    font-family: 'Impact';
+    font-size: 100%;
+    line-height: 1.0;
+}
+
+.title_page {
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+    text-align: center;
+    font-family: 'Impact';
+    font-size: 18px;
+  }
+
+ul.a {
+    list-style-position: outside;
+    list-style-type: upper-alpha;
+    line-height: 2.0;
+  }
+
+
+
+</style>
