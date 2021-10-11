@@ -1,2 +1,2 @@
-# Overview
+# Predictive_Modeling_D208
 Predictive Modeling builds on initial data preparation, cleaning, and analysis, enabling students to make assertions vital to organizational needs. In this course, students conduct logistic regression and multiple regression to model the phenomena revealed by data. The course covers normality, homoscedasticity, and significance, preparing students to communicate findings and the limitations of those findings accurately to organizational leaders. Exploratory Data Analysis is a prerequisite for this course.
